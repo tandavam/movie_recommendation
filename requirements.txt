@@ -1,0 +1,16 @@
+click @ file:///Users/runner/miniforge3/conda-bld/click_1635822678136/work
+dataclasses @ file:///home/conda/feedstock_root/build_artifacts/dataclasses_1628958434797/work
+Flask @ file:///home/conda/feedstock_root/build_artifacts/flask_1633384704162/work
+itsdangerous @ file:///home/conda/feedstock_root/build_artifacts/itsdangerous_1621360792037/work
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1636510082894/work
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1633637554808/work
+MarkupSafe @ file:///Users/runner/miniforge3/conda-bld/markupsafe_1635833843092/work
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1636145439860/work
+pandas==1.3.4
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1633452062248/work
+scikit-learn @ file:///Users/runner/miniforge3/conda-bld/scikit-learn_1636784348537/work
+scipy @ file:///Users/runner/miniforge3/conda-bld/scipy_1637806815742/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1633102299089/work
+Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1621518206714/work
