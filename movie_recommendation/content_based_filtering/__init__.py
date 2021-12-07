@@ -1,0 +1,1 @@
+from .views import movie_recommendation_blueprint

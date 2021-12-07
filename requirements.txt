@@ -14,3 +14,5 @@ scipy @ file:///Users/runner/miniforge3/conda-bld/scipy_1637806815742/work
 six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
 threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1633102299089/work
 Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1621518206714/work
+flask~=2.0.2
+flask_cors~=3.0.10
