@@ -16,3 +16,6 @@ threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_
 Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1621518206714/work
 flask~=2.0.2
 flask_cors~=3.0.10
+numpy~=1.21.4
+matplotlib~=3.5.0
+scikit-learn~=1.0.1
