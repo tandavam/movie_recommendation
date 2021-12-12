@@ -1,11 +1,7 @@
-import pandas as pd
 import os.path
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
-from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.metrics.pairwise import linear_kernel
 from sklearn.metrics.pairwise import cosine_similarity
 from ast import literal_eval
 
@@ -89,7 +85,6 @@ class ContentBasedFiltering:
         self.movies_dataset = self.movies_dataset.reset_index()
         indices = pd.Series(self.movies_dataset.index, index=self.movies_dataset['title'])
         movies = self.get_recommendations(movie_name['movie_name'], cosine_sim2, indices)
-        # import pdb;pdb.set_trace()
         return {
             "movies": list(movies)
         }
